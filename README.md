@@ -6,8 +6,8 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 
 **More About Me**:
 
-- Blockchain Smart Contract Developer
-- Intern @ Caliente iTech
+- Blockchain Enthusiast
+- Web3.0 Developer
 
 **Contact Me**:
 
