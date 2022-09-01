@@ -11,7 +11,6 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 
 **Contact Me**:
 
-[![website](https://img.shields.io/badge/website-red?style=for-the-badge&logo=Website&logoColor=white)](https://MumukshTayal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mumuksh-tayal-9802aa1b9/)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:mumuksh.tayal@iitgn.ac.in)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumukshtayal29@gmail.com)
