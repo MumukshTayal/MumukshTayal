@@ -19,6 +19,11 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 ![MumukshTayal's github stats](https://github-readme-stats.vercel.app/api?username=MumukshTayal&show_icons=true&theme=radical&line_height=27)
 ![MumukshTayal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MumukshTayal&layout=compact&theme=radical&line_height=27)
 
+
+[![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
