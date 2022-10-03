@@ -9,6 +9,7 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 - Blockchain Enthusiast
 - Web3.0 Developer
 
+[![@mumukshtayal's Holopin board](https://holopin.io/api/user/board?user=mumukshtayal)](https://holopin.io/@mumukshtayal)
 **Contact Me**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mumuksh-tayal-9802aa1b9/)
