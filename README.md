@@ -9,8 +9,6 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 - Blockchain Enthusiast
 - Web3.0 Developer
 
-[![@mumukshtayal's Holopin board](https://holopin.io/api/user/board?user=mumukshtayal)](https://holopin.io/@mumukshtayal)
-
 **Contact Me**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mumuksh-tayal-9802aa1b9/)
@@ -25,6 +23,8 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 [![](https://raw.githubusercontent.com/MumukshTayal/MumukshTayal/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MumukshTayal/MumukshTayal/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aayush4vedi/aayush4vedi/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MumukshTayal/MumukshTayal/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MumukshTayal/MumukshTayal/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![@mumukshtayal's Holopin board](https://holopin.io/api/user/board?user=mumukshtayal)](https://holopin.io/@mumukshtayal)
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
