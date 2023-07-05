@@ -6,7 +6,7 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 
 **More About Me**:
 
-- Blockchain Enthusiast
+- Tech Enthusiast
 - Web3.0 Developer
 
 **Tools & Technologies I use**:
