@@ -6,8 +6,9 @@ I'm a BTech student at [Indian Institute of Technology, Gandhinagar](http://iitg
 
 **More About Me**:
 
-- Tech Enthusiast
-- Web3.0 Developer
+- Computer Systems and Networks Enthusiast
+- Full-Stack Development
+- Web3.0 Development
 
 **Tools & Technologies I use**:
 
