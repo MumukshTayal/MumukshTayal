@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a BTech student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/).
+I'm a M.Tech (Research) student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/).
 
 <br>
 
