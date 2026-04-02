@@ -21,12 +21,9 @@ I'm a M.Tech (Research) student at [Indian Institute of Science, Bangalore](http
 **Contact Me**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mumuksh-tayal-9802aa1b9/)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:mumuksh.tayal@iitgn.ac.in)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:mumukshtayal@iisc.ac.in)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumukshtayal29@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MT160909)
-
-![MumukshTayal's github stats](https://github-readme-stats.vercel.app/api?username=MumukshTayal&show_icons=true&theme=radical&line_height=27)
-![MumukshTayal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MumukshTayal&layout=compact&theme=radical&line_height=27)
 
 
 [![](https://raw.githubusercontent.com/MumukshTayal/MumukshTayal/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
